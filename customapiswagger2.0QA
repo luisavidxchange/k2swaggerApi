@@ -6,10 +6,6 @@
     "info": {
         "title": "custom",
         "version": "1.0",
-        "contact": {
-            "name": "Rohit Pant",
-            "email": "rpant@avidxchange.com"
-        },
         "description": "this custom api allows the update of ceratin fields for payments"
     },
     "host": "avidxchange-org2--org2st.sandbox.my.salesforce.com",
